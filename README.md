@@ -1,3 +1,3 @@
 # KCK
 Zajęcia z przedmiotu komunikacja człowiek-komputer
-kck
+- punkt 1
